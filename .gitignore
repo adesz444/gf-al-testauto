@@ -15,6 +15,7 @@
 .altestrunner/
 
 ### AL ###
+*.app
 #XLIFF file
 *.g.xlf
 #Template for AL projects for Dynamics 365 BC
