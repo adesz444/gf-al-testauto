@@ -1,0 +1,18 @@
+{
+  "id": "0aa24316-9396-4555-a433-a850faa100da",
+  "name": "Sample App",
+  "publisher": "Cosmo Consult",
+  "version": "1.0.0.0",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}

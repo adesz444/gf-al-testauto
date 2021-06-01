@@ -1,0 +1,37 @@
+{
+  "id": "0aa24316-9396-4555-a433-a850faa100da",
+  "name": "Sample App - Tests",
+  "publisher": "Cosmo Consult",
+  "version": "1.0.0.0",
+  "dependencies": [
+    {
+      "id": "0aa24316-9396-4555-a433-a850faa100da",
+      "name": "Sample App",
+      "publisher": "Cosmo Consult",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert",
+      "publisher": "Microsoft",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "name": "Tests-TestLibraries",
+      "publisher": "Microsoft",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
