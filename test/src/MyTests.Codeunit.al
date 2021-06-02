@@ -59,6 +59,8 @@ codeunit 50200 "MyTests"
 
         // [WHEN] User deletes Present Code
         CustomerCard."Present Code".SetValue('');
+
+        // [THEN] Present Description is empty on customer
         Assert.AreEqual('', CustomerCard."Present Description".Value, 'Present Description is not empty on Customer, but it should be');
     end;
 
